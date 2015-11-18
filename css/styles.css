@@ -4,6 +4,23 @@ body {
 	font-weight: 300;
 }
 
+.title-h3 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+hr {
+	border: none;
+	height: 3px;
+	background-color: #BCBBBB;
+	margin-top: 10px;
+}
+
+.featured-work-h3 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
 .text-muted {
 	color: #BCBBBB;
 }
